@@ -9,8 +9,8 @@ While many different technologies and schemas exist and could be combined togeth
 <meta property="og:title" content="SaldoFlex Benefícios">
 <meta property="og:description" content="SaldoFlex é a solução em vale ou antecipação de salários. Benefício a custo zero para a empresa e queridinho dos funcionários.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://SaldoFlex.com.br/">
-<meta property="og:image" content="https://SaldoFlex.com.br/images/OG/SaldoFlex-og.jpg.png">
+<meta property="og:url" content="https://dionizio82.github.io/SaldoFlex/">
+<meta property="og:image" content="https://dionizio82.github.io/SaldoFlex/images/OG/SaldoFlex-og.jpg.png">
 <meta property="og:image:width" content="600">
 <meta property="og:image:height" content="600">
 <link rel="canonical" href="https://www.SaldoFlex.com.br">
